@@ -294,6 +294,8 @@ public class PostController {
 - MySQL 확인 : 
 ![image](https://github.com/dbqudgns/BoardCRUD/assets/68501204/991d8b58-29d1-4530-89a2-24f30a3131da)
 
+###참고 : https://uknowblog.tistory.com/311
+
 - 게시글 삭제 : 5번 레코드 삭제 
 ![image](https://github.com/dbqudgns/BoardCRUD/assets/68501204/4614b063-b712-4eee-a080-b305d54e8ca0)
 
