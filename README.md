@@ -299,7 +299,3 @@ public class PostController {
 
 - MySQL 확인 : 
 ![image](https://github.com/dbqudgns/BoardCRUD/assets/68501204/f1570ef2-b258-4143-a9b5-fb64ddb87128)
-
-
-
-### 참고 : https://uknowblog.tistory.com/311
