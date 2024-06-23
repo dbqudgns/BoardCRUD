@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    # MySQL
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: "jdbc:mysql://localhost:3306/new_schema?&serverTimezone=Asia/Seoul"
+    username: "root"
+    password: "1234"
+
+  jpa:
+    # JPA
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+    show-sql: true
+    open-in-view: false
